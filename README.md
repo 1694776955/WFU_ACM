@@ -6,7 +6,7 @@
 
 [HDU 题目分类](https://vjudge.net/article/412)
 
-## 入门题目 (Total:150, from [山东理工 ACM](https://acm.sdut.edu.cn/onlinejudge2/index.php/Home/Index/problemlist))
+## 入门题目 (Total: 150, from [山东理工 ACM](https://acm.sdut.edu.cn/onlinejudge2/index.php/Home/Index/problemlist))
 
 ### 顺序结构
 
